@@ -1,4 +1,4 @@
-# Image-Downloader
+# Bulk-Image-Downloader
 Simple Python Image Downloder using requests and shutil
 
 Here i provided source code for downloading images from the internet by urls.
