@@ -7,6 +7,6 @@ Here i gave 2 examples that i used and one demo file for quick run.
 
 Also provided .ipynb file for run in google colab.
 
-##Enjoy!
+## Enjoy!
 
-##Thank You!
+## Thank You!
